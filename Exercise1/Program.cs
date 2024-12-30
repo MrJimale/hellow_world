@@ -8,6 +8,7 @@ bool IsRetired = false;
 if (YearsFromrETIREMNT <= 0)
 {
      IsRetired = true;
+    Console.WriteLine( "lah alah");
 
 }
 
